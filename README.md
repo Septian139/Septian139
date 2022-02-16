@@ -2,7 +2,7 @@
 <h3 align="center">A Tweaker and programmer</h3>
 
 
-Here are some ideas to get you started:
+About Me:
 
 - 🔭 I’m currently working as Java programmer
 - 🤔 Interested in cryptography
