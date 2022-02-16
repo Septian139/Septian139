@@ -5,8 +5,7 @@
 About Me:
 
 - 🔭 I’m currently working as Java programmer
-- 🤔 Interested in cryptography
-- 🌱 I’m currently learning Aspect Oriented Programming (AOP)
+- 🤔 Interested in cryptography, ORM, and AOP
 - 📫 You can contact me at: septian13.ian@gmail.com
 
 ### 🛠 Main Languages:
@@ -17,9 +16,18 @@ About Me:
 
 ### 🛠 Main Tools :
 ![Vs](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+
+![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SqlServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
 ![Ps](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+
+
+
 
 
 
