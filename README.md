@@ -1,12 +1,11 @@
 <h1 align="center">Hi there!👋, I'm Septian Pramana R</h1>
-<h3 align="center">A Tweaker and programmer</h3>
+<h3 align="center">A tweaker and programmer</h3>
 
 
 About Me:
 
 - 🔭 I’m currently working as Java programmer
 - 🤔 Interested in cryptography, ORM, and AOP
-- 📫 You can contact me at: septian13.ian@gmail.com
 
 ### 🛠 Main Languages:
 ![C#](https://img.shields.io/badge/-C_Sharp-05122A?style=flat&logo=Csharp&logoColor=ADD8E6)
