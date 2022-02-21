@@ -5,7 +5,7 @@
 About Me:
 
 - 🔭 I’m currently working as Java programmer
-- 🤔 Interested in cryptography, ORM, and AOP
+- 🤔 Interested in cryptography and reflective programming
 
 ### 🛠 Main Languages:
 ![C#](https://img.shields.io/badge/-C_Sharp-05122A?style=flat&logo=Csharp&logoColor=ADD8E6)
