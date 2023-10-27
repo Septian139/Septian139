@@ -6,6 +6,7 @@ About Me:
 
 - 🔭 I’m currently working as Java programmer
 - 🤔 Interested in cryptography and reflective programming
+- Still learning about bash scripting and concurrency
 - #ObjectOriented
 
 ### 🛠 Main Languages:
