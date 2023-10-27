@@ -14,4 +14,5 @@ About Me:
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFFFF)
 ![vbnet](https://img.shields.io/badge/-Visual_Basic.net-05122A?style=flat&logo=visualbasic&logoColor=AAFFFF)
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat)
+![Bash](https://img.shields.io/badge/bash-blue)
 
