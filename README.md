@@ -4,15 +4,15 @@
 
 About Me:
 
-- 🔭 I’m currently working as Java programmer
+- 🔭 Currently working as Java programmer
 - 🤔 Interested in cryptography and reflective programming
-- Still learning about bash scripting and concurrency
-- #ObjectOriented
+
+#ObjectOriented
 
 ### 🛠 Main Languages:
-![C#](https://img.shields.io/badge/-C_Sharp-05122A?style=flat&logo=Csharp&logoColor=ADD8E6)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFFFF)
-![vbnet](https://img.shields.io/badge/-Visual_Basic.net-05122A?style=flat&logo=visualbasic&logoColor=AAFFFF)
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat)
-![Bash](https://img.shields.io/badge/bash-blue)
-
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=oracle&logoColor=FF0000)
+![C#](https://img.shields.io/badge/-C%23-800080?style=flat&logo=Csharp&logoColor=FFFFFF)
+![vbnet](https://img.shields.io/badge/-VB.net-87ceeb?style=flat&logo=visualbasic&logoColor=000000)
+![SQL](https://img.shields.io/badge/-SQL-FF8C00?style=flat)
+![Bash](https://img.shields.io/badge/%2F%3E_bash-blue)
+![Python](https://img.shields.io/badge/Python-ffc30b?logo=python)
