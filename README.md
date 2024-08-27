@@ -5,7 +5,7 @@
 About Me:
 
 - 🔭 Currently working as Java programmer
-- 🤔 Interested in cryptography and reflective programming
+- 🤔 Interested in cryptography, parallel computing, and reflective programming
 
 #ObjectOriented
 
